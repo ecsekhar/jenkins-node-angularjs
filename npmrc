@@ -1,0 +1,5 @@
+registry=https://nexus.org.com/repository/npm-public/
+//nexus.org.com/repository/:
+email=unused@unused.none
+always-auth=true
+_auth=Y2ktbmV4dXMtdXNlcjpIdW1wcGExMDc=

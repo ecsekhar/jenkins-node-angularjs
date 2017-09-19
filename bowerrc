@@ -1,0 +1,6 @@
+{
+  "registry" : {
+    "search" : [ "https://nexus.org.com/repository/bower-public/" ]
+   },
+  "resolvers" : [ "bower-nexus3-resolver" ]
+}
